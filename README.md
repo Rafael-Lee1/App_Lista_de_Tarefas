@@ -25,6 +25,8 @@ Com o aplicativo de lista de tarefas, você pode criar tarefas, adicionar detalh
 
 Acesse o endereço eletrônico <a href="http://mywordpress.infinityfreeapp.com/todas_tarefas.php">aqui</a> e saiba mais sobre as funcionalidades do projeto.
 
+Experimente o aplicativo de lista de tarefas hoje mesmo e desfrute de uma maneira mais organizada e eficiente de gerenciar suas tarefas diárias. Simplifique sua vida e aumente sua produtividade com esta poderosa ferramenta de organização pessoal.
+
 # 📁 Acesso ao projeto
 
 **Você pode acessar os arquivos do projeto clicando <a href="https://github.com/Rafael-Lee1/App_Lista_de_Tarefas">aqui</a>.</p>
